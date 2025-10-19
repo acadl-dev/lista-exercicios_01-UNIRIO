@@ -1,10 +1,10 @@
-# exericios-basicos-unirio
+# exercicios-basicos-unirio
 
-# 🧮 Exercícios de de prática para JAva
+# 🧮 Exercícios para práticar Java
 
 Este repositório contém uma série de exercícios propostos pela **UNIRIO (Universidade Federal do Estado do Rio de Janeiro)** para praticar **if, switch e método** na linguagem **Java**.  
 O objetivo é reforçar o raciocínio lógico, o uso de laços de decisão, métodos, e a estrutura modular de programas.
-Todos os exerciios estão ficando num mesmo arquivo, a idéia e futuramente adicionar um menu que vai permitir rodar os programas separadamente.
+Todos os exercícios estão ficando em um mesmo arquivo, a idéia e futuramente adicionar um menu para organizar os programas separadamente.
 
 ---
 
